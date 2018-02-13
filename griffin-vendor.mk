@@ -756,6 +756,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/mmi_vibrator.so:$(TARGET_COPY_OUT_VENDOR)/lib/mmi_vibrator.so \
     vendor/motorola/griffin/proprietary/vendor/lib/mmi_wifi.so:$(TARGET_COPY_OUT_VENDOR)/lib/mmi_wifi.so \
     vendor/motorola/griffin/proprietary/vendor/lib/motcamera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/motcamera.device@1.0-impl.so \
+    vendor/motorola/griffin/proprietary/vendor/lib/motorola.hardware.audio.eqservice@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.eqservice@1.0_vendor.so \
     vendor/motorola/griffin/proprietary/vendor/lib/motorola.hardware.camera.device@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.camera.device@1.0_vendor.so \
     vendor/motorola/griffin/proprietary/vendor/lib/motorola.hardware.camera.provider@2.4_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.camera.provider@2.4_vendor.so \
     vendor/motorola/griffin/proprietary/vendor/lib/rfsa/adsp/libadsp_fd_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libadsp_fd_skel.so \
@@ -1027,6 +1028,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib64/mmi_vibrator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mmi_vibrator.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/mmi_wifi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mmi_wifi.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/motcamera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/motcamera.device@1.0-impl.so \
+    vendor/motorola/griffin/proprietary/vendor/lib64/motorola.hardware.audio.eqservice@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/motorola.hardware.audio.eqservice@1.0_vendor.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/motorola.hardware.camera.device@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/motorola.hardware.camera.device@1.0_vendor.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/motorola.hardware.camera.provider@2.4_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/motorola.hardware.camera.provider@2.4_vendor.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/sensor_calibrate.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensor_calibrate.so \
